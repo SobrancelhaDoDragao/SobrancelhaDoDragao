@@ -1,5 +1,5 @@
 ### Hi there 👋
-Veja meu portifolio aqui: https://sobrancelhadodragao.github.io/eudsondeveloper/ (Ainda está sendo construido)
+Veja meu portifolio aqui: https://sobrancelhadodragao.github.io/eudsondeveloper/
 
 <!--
 **SobrancelhaDoDragao/SobrancelhaDoDragao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
