@@ -24,7 +24,7 @@ Here are some ideas to get you started:
         <li>Stack: Python - Django - SQL - PHP - Laravel - JS - HTML- CSS - Bootstrap </li>
 </ul>
 
-<a target='_blank' href="https://www.linkedin.com/in/eudson-dur%C3%A3es-010060192/">
+<a target='_blank' href="https://www.linkedin.com/in/eudsonDuraes/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
  
