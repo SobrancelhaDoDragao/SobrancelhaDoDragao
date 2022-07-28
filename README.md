@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SobrancelhaDoDragao&layout=compact&theme=dark)](https://github.com/SobrancelhaDoDragao/github-readme-stats)
 ##
 <ul>
-        <li>Stack: Python - Django - SQL - PHP - Laravel - JS - HTML- CSS - Bootstrap </li>
+        <li>Stack: Python - Django - SQL - PHP - Laravel - JS - HTML- CSS - Bootstrap- Vue.js</li>
 </ul>
 
 <a target='_blank' href="https://www.linkedin.com/in/eudsonDuraes/">
