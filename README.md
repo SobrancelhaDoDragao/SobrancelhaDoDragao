@@ -1,10 +1,16 @@
-### Olá
+## Olá 👋
+
+### Sobre mim
+
+Eu sou formado em Análise e Desenvolvimento de Sistemas. Além da programação, gosto de correr, andar de bicicleta e ler livros. Estou sempre me atualizando em novas tecnologias e desenvolvendo projetos pessoais para expandir minhas habilidades. Tenho um interesse especial em inteligência artificial e estou constantemente pesquisando para aprimorar meus conhecimentos nessa área.
+
+Para mais informações veja meu **[Portfolio](<https://sobrancelhadodragao.github.io/eudsondeveloper/> "https://sobrancelhadodragao.github.io/eudsondeveloper/")**
 
 #### Meu principais projetos
 
-- [Digit Recongizer](<https://github.com/SobrancelhaDoDragao/Digit_Recognizer>)- **Status: em progresso**, aplicação web consiste em uma área de desenho onde é possível desenhar os dígitos de 0 a 9 manualmente. Em seguida, o algoritmo de IA treinado irá processar o desenho e retornar qual número foi desenhado.
-- [To Do List](<https://github.com/SobrancelhaDoDragao/To_Do_List>) - **Status: Concluido**, site de gerenciamento de tarefas concluídas e não Concluídas com Vue.js e Django REST Framework.
-- [Link Park](<https://github.com/SobrancelhaDoDragao/Linkin-park>)- **Status: Concluido**, um Crud com PHP e Laravel das musicas e albumns da banda link park.
+- **[Digit Recongizer](<https://github.com/SobrancelhaDoDragao/Digit_Recognizer>) - Status: Em progresso**, uma aplicação que web consiste em uma área de desenho onde é possível desenhar os dígitos de 0 a 9 manualmente. Em seguida, o algoritmo de IA treinado irá processar o desenho e retornar qual número foi desenhado.
+- **[To Do List](<https://github.com/SobrancelhaDoDragao/To_Do_List>) - Status: Concluído**, site de gerenciamento de tarefas concluídas e não Concluídas com Vue.js e Django REST Framework.
+- **[Link Park](<https://github.com/SobrancelhaDoDragao/Linkin-park>) - Status: Concluído**, um Crud com PHP e Laravel das musicas e albumns da banda link park.
 
 #### Estou estudando atualmente
 
