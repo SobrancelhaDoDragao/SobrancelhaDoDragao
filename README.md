@@ -15,7 +15,7 @@ Para mais informações veja meu **[Portfolio](<https://sobrancelhadodragao.gith
 ### Estou estudando atualmente
 
 - Vue.js
-- Scikit learn
+- Javascript
 
 -------------
 
