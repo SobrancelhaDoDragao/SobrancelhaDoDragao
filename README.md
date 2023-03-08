@@ -16,6 +16,7 @@ Para mais informações veja meu **[Portfolio](<https://sobrancelhadodragao.gith
 
 - Vue.js
 - Javascript
+- Inteligência artificial 
 
 -------------
 
