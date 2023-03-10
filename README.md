@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Eudson</h1>
-<h4 align="center">Full Stack Developer Junior</h4>
+<h4 align="center">Full Stack Developer</h4>
 
 ## Sobre mim
 
