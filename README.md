@@ -28,6 +28,12 @@ Para mais informações veja meu **[Portfolio](<https://sobrancelhadodragao.gith
 <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
         
 <img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+               
+<img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+        
+<img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+          
+          
                 
 </div>
 
