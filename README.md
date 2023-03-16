@@ -49,6 +49,7 @@ Para mais informações veja meu **[Portfolio](<https://sobrancelhadodragao.gith
 - Javascript
 - Inteligência artificial 
 - Docker
+- Nuxt
 
 -------------
 
