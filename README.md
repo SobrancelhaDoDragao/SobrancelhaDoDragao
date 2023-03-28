@@ -39,6 +39,7 @@ Para mais informações veja meu **[Portfolio](<https://sobrancelhadodragao.gith
 
 ## Meu principais projetos
 
+- **[Sistema Biblioteca](<https://github.com/SobrancelhaDoDragao/Sistema-Biblioteca>) - Status: Em progresso**, um sistema para gerenciar livros e emprestimos de livros feitos em uma biblioteca.
 - **[Digit Recongizer](<https://github.com/SobrancelhaDoDragao/Digit_Recognizer>) - Status: Em progresso**, uma aplicação que web consiste em uma área de desenho onde é possível desenhar os dígitos de 0 a 9 manualmente. Em seguida, o algoritmo de IA treinado irá processar o desenho e retornar qual número foi desenhado.
 - **[To Do List](<https://github.com/SobrancelhaDoDragao/To_Do_List>) - Status: Concluído**, site de gerenciamento de tarefas concluídas e não concluídas com Vue.js e Django REST Framework.
 - **[Link Park](<https://github.com/SobrancelhaDoDragao/Linkin-park>) - Status: Concluído**, um Crud com PHP e Laravel das musicas e albumns da banda link park.
