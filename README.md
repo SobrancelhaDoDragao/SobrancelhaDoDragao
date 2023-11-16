@@ -47,6 +47,7 @@ Para mais informações veja meu **[Portfolio](<https://sobrancelhadodragao.gith
 
 ## Estou estudando atualmente
 
+- Rust
 - Vue.js
 - Javascript
 - Inteligência artificial 
