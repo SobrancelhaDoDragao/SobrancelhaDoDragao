@@ -5,8 +5,6 @@
 
 Eu sou formado em Análise e Desenvolvimento de Sistemas. Além da programação, gosto de correr, andar de bicicleta e ler livros. Estou sempre me atualizando em novas tecnologias e desenvolvendo projetos pessoais para expandir minhas habilidades. Tenho um interesse especial em inteligência artificial e estou constantemente pesquisando para aprimorar meus conhecimentos nessa área.
 
-Para mais informações veja meu **[Portfolio](<https://sobrancelhadodragao.github.io/eudsondeveloper/> "https://sobrancelhadodragao.github.io/eudsondeveloper/")**.
-
 <div align="center">
         
 ### Tecnologias que me sinto confortável 
